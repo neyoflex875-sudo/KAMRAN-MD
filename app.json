@@ -1,5 +1,5 @@
 {
-  "name": "KAMRAN-MD",
+  "name": "FLEX-MD",
   "description": "Javascript WhatsApp bot made by DR KAMRAN",
   "logo": "https://files.catbox.moe/ly6553.jpg",
   "keywords": ["KAMRAN-MD"],
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "FLEX-MD"
     }, 
       
     "PREFIX": {
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923195068309"
+      "value": "50935373400"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KAMRAN-MD"
+      "value": "FLEX-MD"
 
       }, 
 
